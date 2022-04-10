@@ -1,5 +1,5 @@
 ### BÁN BẠC GAME THIỆN NỮ 2 - VNG
-Mình chuyên bán bạc game Thiện Nữ 2 VNG giá rẻ, mỗi server mỗi tháng 3-4 ức.
+Mình chuyên bán bạc game Thiện Nữ 2 VNG giá rẻ, mỗi server 3-4 ức/tháng cần tìm các mối lâu dài.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUpgpBpu1XOGzuWzz65rILbokaJoXpBiJF8pDTf0JEGLnlyuPhVICj_vdvvwb0gEuYJzKnBH-fIBxF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500"></iframe>
 
 ### Bán tài khoản zing trắng SLL
