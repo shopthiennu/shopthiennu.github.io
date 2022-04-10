@@ -1,4 +1,4 @@
-![My image Name](/assets/images/bg.jpg)
+![Thiện Nữ 2](/assets/images/bg2.jpg)
 ### SHOP BẠC GAME THIỆN NỮ 2 - VNG
 Chuyên mua bán bạc game Thiện Nữ 2 VNG giá rẻ, mỗi server 3-4 ức/tháng cần tìm các mối lâu dài.
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQUpgpBpu1XOGzuWzz65rILbokaJoXpBiJF8pDTf0JEGLnlyuPhVICj_vdvvwb0gEuYJzKnBH-fIBxF/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500"></iframe>
