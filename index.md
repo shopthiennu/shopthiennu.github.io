@@ -9,5 +9,6 @@ Mình nhận reg tài khoản zing trắng số lượng lớn cho anh em có nh
 
 ### Liên hệ
 - Facebook cá nhân: [Nguyễn Huy](https://www.facebook.com/prostoshare)
-- Zalo: [0857496865](https://zalo.me/84857496865)
+- Zalo cá nhân: [0857496865](https://zalo.me/84857496865)
+- Nhóm Zalo mua bán bạc: [Group Mua bán](https://zalo.me/g/othubs288)
 - Nhóm mua bán bạc: [Auto Thiện Nữ 2 VNG](https://www.facebook.com/groups/autothiennu2)
