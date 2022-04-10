@@ -14,6 +14,6 @@ Mình nhận reg tài khoản zing trắng số lượng lớn cho anh em có nh
 - Nhóm Zalo mua bán bạc: [Group Mua bán](https://zalo.me/g/othubs288)
 - Nhóm FB mua bán bạc: [Auto Thiện Nữ 2 VNG](https://www.facebook.com/groups/autothiennu2)
 
-Lưu ý: Mình chỉ giao dịch qua zalo và facebook cá nhân không giao dịch trong game!
+Lưu ý: Mình chỉ giao dịch qua zalo và facebook không giao dịch trong game!
 
 ### Bình luận:
