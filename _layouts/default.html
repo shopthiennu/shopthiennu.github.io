@@ -15,8 +15,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     
-    <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v13.0&appId=1796529320651589&autoLogAppEvents=1" nonce="w6KsKUva"></script>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -37,5 +35,25 @@
       {{ content }}
       <div class="fb-comments" data-href="https://shopthiennu.com" data-width="100%" data-numposts="5"></div>
     </main>
+    
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1796529320651589',
+      xfbml      : true,
+      version    : 'v13.0'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+    
   </body>
 </html>
