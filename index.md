@@ -13,6 +13,7 @@ Mình nhận reg tài khoản zing trắng số lượng lớn cho anh em có nh
 - Zalo cá nhân: [0857496865](https://zalo.me/84857496865)
 - Nhóm Zalo mua bán bạc: [Group Mua bán](https://zalo.me/g/othubs288)
 - Nhóm FB mua bán bạc: [Auto Thiện Nữ 2 VNG](https://www.facebook.com/groups/autothiennu2)
+- HashTags: [#shop_bac_nguyenhuy](https://www.facebook.com/hashtag/shop_bac_nguyenhuy)
 
 Lưu ý: Mình chỉ giao dịch qua zalo và facebook không giao dịch trong game!
 
